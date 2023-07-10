@@ -1,0 +1,21 @@
+
+
+#title {color: blue;}
+#main{  background-color: gray;
+}
+#image {max-width:100%; height:auto;
+align-content:center;
+margin: auto;
+display: block;
+}
+
+#img-caption{
+color:red
+}
+#tribute-info {
+ color: blue;
+}
+#tribute-link{
+
+}
+
